@@ -1,6 +1,6 @@
 # NG Bootstrap V3.3.0 - Angular directives specific to Bootstrap 4 
 
-This repository mainly included some of the enhancements to it's main repository which is not included in this version, (V2.2.1). Some of the issues are fixed in the never version of it's main repository.
+This repository mainly included some of the enhancements to it's main repository which is not included in this version, (V3.3.0). Some of the issues are fixed in the never version of it's main repository.
 
 > To changing our company ongoing projects themes and versions is going to be a problem. therefore I enhance some of the features of this particular version to meet our requirement. 
 
