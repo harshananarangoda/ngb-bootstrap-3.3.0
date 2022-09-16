@@ -60,7 +60,7 @@
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
     "@types/prismjs": "^1.9.0",
-    "bootstrap": "4.0.0",
+    "bootstrap": "4.3.1",
     "clang-format": "1.0.35",
     "core-js": "^2.5.4",
     "glob": "^7.1.1",
